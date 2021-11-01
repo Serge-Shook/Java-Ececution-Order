@@ -1,0 +1,52 @@
+  --== Creating instanceOne of SuperClass ==--
+1. First static block in SuperClass
+2. Second static block in SuperClass
+3. First instance block in SuperClass
+4. Second instance block in SuperClass
+5. Constructor in SuperClass
+  --== Calling a method of instanceOne ==--
+6. Method in SuperClass
+  --== Creating instanceTwo of SuperClass ==--
+7. First instance block in SuperClass
+8. Second instance block in SuperClass
+9. Constructor in SuperClass
+  --== Calling a method of instanceTwo ==--
+10. Method in SuperClass
+  --== Creating instanceThree of SubClass ==--
+11. First static block in SubClass
+12. Second static block in SubClass
+13. First instance block in SuperClass
+14. Second instance block in SuperClass
+15. Constructor in SuperClass
+16. First instance block in SubClass
+17. Second instance block in SubClass
+18. Constructor in SubClass
+  --== Calling a method of instanceThree ==--
+19. Method in SubClass
+  --== Creating instanceFour of SuperClass ==--
+20. First instance block in SuperClass
+21. Second instance block in SuperClass
+22. Constructor in SuperClass
+23. First instance block in SubClass
+24. Second instance block in SubClass
+25. Constructor in SubClass
+  --== Calling a method of instanceFour ==--
+26. Method in SubClass
+  --== Creating instanceFive of SubClass assigning to SuperClass type ==--
+27. First instance block in SuperClass
+28. Second instance block in SuperClass
+29. Constructor in SuperClass
+30. First instance block in SubClass
+31. Second instance block in SubClass
+32. Constructor in SubClass
+  --== Calling a method of instanceFive ==--
+33. Method in SubClass
+  --== Creating instanceSix of SubClass assigning to SuperClass type ==--
+34. First instance block in SuperClass
+35. Second instance block in SuperClass
+36. Constructor in SuperClass
+37. First instance block in SubClass
+38. Second instance block in SubClass
+39. Constructor in SubClass
+  --== Calling a method of instanceSix ==--
+40. Method in SubClass
